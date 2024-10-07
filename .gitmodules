@@ -1,0 +1,12 @@
+[submodule "ugv_base_ros"]
+	path = ugv_base_ros
+	url = https://github.com/waveshareteam/ugv_base_ros.git
+[submodule "ugv_rpi"]
+	path = ugv_rpi
+	url = https://github.com/waveshareteam/ugv_rpi.git
+[submodule "ugv_ws"]
+	path = ugv_ws
+	url = https://github.com/waveshareteam/ugv_ws.git
+[submodule "ugv_base_general"]
+	path = ugv_base_general
+	url = https://github.com/waveshareteam/ugv_base_general.git
